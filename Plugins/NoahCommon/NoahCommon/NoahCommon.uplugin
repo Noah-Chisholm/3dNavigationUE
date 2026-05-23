@@ -2,8 +2,8 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "interaction",
-	"Description": "An abstraction of my most common interaction system implementation",
+	"FriendlyName": "NoahCommon",
+	"Description": "A collection of the common things I reimport from project to project.",
 	"Category": "Other",
 	"CreatedBy": "Noah Chisholm",
 	"CreatedByURL": "",
@@ -15,7 +15,7 @@
 	"Installed": true,
 	"Modules": [
 		{
-			"Name": "interaction",
+			"Name": "NoahCommon",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
